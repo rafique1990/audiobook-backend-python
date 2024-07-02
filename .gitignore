@@ -1,0 +1,119 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+.ENV/
+env.bak/
+venv.bak/
+
+# Test results
+coverage/
+.tox/
+.nox/
+.cache/
+pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# FastAPI specific
+*.log
+instance/
+.env
+.venv/
+*.db
+db.sqlite3
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+.history/
+mypy_cache/
+dmypy.json
+mypy.ini
+
+# PyCharm
+.idea/*
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf
+.idea/**/contentModel.xml
+.idea/**/description.html
+.idea/**/deployment.xml
+.idea/**/gradle.xml
+.idea/**/misc.xml
+.idea/**/modules.xml
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/vcs.xml
+
+# Pycharm specific
+*.iml
+*.iws
+.idea/
+
+# VS Code specific
+.vscode/
+.history/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# macOS
+*.DS_Store
+
+# Windows
+*.crdownload
+
+# PEP 582; used by e.g. github.com/David-OConnor/pyflow
+__pypackages__/
+
+# dotenv
+*.env
+.env.*
+
+# Cache
+*.lock
+
+# Editor directories and files
+.vscode/
+*.swp
+*.swo
+
+# Pyright specific
+pyrightconfig.json
